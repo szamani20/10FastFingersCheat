@@ -1,2 +1,9 @@
-# 10FastFingersCheat A python 3 script to cheat in [10fastfingers] (http://10fastfingers.com/typing-test/english) :) you need to install PIL, pytesseract and pyautogui. 
-use pip install `package-name` to install in windows.
+#### 10FastFingers Cheat
+
+ * Requirements
+   * pytesseract
+   * PIL
+   * pyautogui
+
+
+*Don't forget to use your own coordinates based on your display resolution*
